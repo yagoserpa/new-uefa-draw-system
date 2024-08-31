@@ -1,0 +1,682 @@
+[
+  {
+    "home": {
+      "name": "Real Madrid",
+      "country": "Spain"
+    },
+    "away": {
+      "name": "Manchester City",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "Real Madrid",
+      "country": "Spain"
+    },
+    "away": {
+      "name": "Liverpool",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "Manchester City",
+      "country": "England"
+    },
+    "away": {
+      "name": "Bayern München",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Manchester City",
+      "country": "England"
+    },
+    "away": {
+      "name": "RB Leipzig",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Bayern München",
+      "country": "Germany"
+    },
+    "away": {
+      "name": "Paris Saint-Germain",
+      "country": "France"
+    }
+  },
+  {
+    "home": {
+      "name": "Bayern München",
+      "country": "Germany"
+    },
+    "away": {
+      "name": "Liverpool",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "Paris Saint-Germain",
+      "country": "France"
+    },
+    "away": {
+      "name": "Barcelona",
+      "country": "Spain"
+    }
+  },
+  {
+    "home": {
+      "name": "Paris Saint-Germain",
+      "country": "France"
+    },
+    "away": {
+      "name": "Internazionale",
+      "country": "Italy"
+    }
+  },
+  {
+    "home": {
+      "name": "Internazionale",
+      "country": "Italy"
+    },
+    "away": {
+      "name": "Barcelona",
+      "country": "Spain"
+    }
+  },
+  {
+    "home": {
+      "name": "Internazionale",
+      "country": "Italy"
+    },
+    "away": {
+      "name": "Borussia Dortmund",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Borussia Dortmund",
+      "country": "Germany"
+    },
+    "away": {
+      "name": "Arsenal",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "Borussia Dortmund",
+      "country": "Germany"
+    },
+    "away": {
+      "name": "Atalanta",
+      "country": "Italy"
+    }
+  },
+  {
+    "home": {
+      "name": "RB Leipzig",
+      "country": "Germany"
+    },
+    "away": {
+      "name": "Arsenal",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "RB Leipzig",
+      "country": "Germany"
+    },
+    "away": {
+      "name": "Club Brugge",
+      "country": "Belgium"
+    }
+  },
+  {
+    "home": {
+      "name": "Bayer Leverkusen",
+      "country": "Germany"
+    },
+    "away": {
+      "name": "Manchester City",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "Bayer Leverkusen",
+      "country": "Germany"
+    },
+    "away": {
+      "name": "Internazionale",
+      "country": "Italy"
+    }
+  },
+  {
+    "home": {
+      "name": "Atlético de Madrid",
+      "country": "Spain"
+    },
+    "away": {
+      "name": "RB Leipzig",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Atlético de Madrid",
+      "country": "Spain"
+    },
+    "away": {
+      "name": "Manchester City",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "Atalanta",
+      "country": "Italy"
+    },
+    "away": {
+      "name": "Real Madrid",
+      "country": "Spain"
+    }
+  },
+  {
+    "home": {
+      "name": "Atalanta",
+      "country": "Italy"
+    },
+    "away": {
+      "name": "Liverpool",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "Juventus",
+      "country": "Italy"
+    },
+    "away": {
+      "name": "RB Leipzig",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Juventus",
+      "country": "Italy"
+    },
+    "away": {
+      "name": "Real Madrid",
+      "country": "Spain"
+    }
+  },
+  {
+    "home": {
+      "name": "Benfica",
+      "country": "Portugal"
+    },
+    "away": {
+      "name": "Borussia Dortmund",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Benfica",
+      "country": "Portugal"
+    },
+    "away": {
+      "name": "Bayern München",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Arsenal",
+      "country": "England"
+    },
+    "away": {
+      "name": "AC Milan",
+      "country": "Italy"
+    }
+  },
+  {
+    "home": {
+      "name": "Arsenal",
+      "country": "England"
+    },
+    "away": {
+      "name": "Shakhtar Donetsk",
+      "country": "Ukraine"
+    }
+  },
+  {
+    "home": {
+      "name": "Club Brugge",
+      "country": "Belgium"
+    },
+    "away": {
+      "name": "Paris Saint-Germain",
+      "country": "France"
+    }
+  },
+  {
+    "home": {
+      "name": "Club Brugge",
+      "country": "Belgium"
+    },
+    "away": {
+      "name": "Bayern München",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Shakhtar Donetsk",
+      "country": "Ukraine"
+    },
+    "away": {
+      "name": "Paris Saint-Germain",
+      "country": "France"
+    }
+  },
+  {
+    "home": {
+      "name": "Shakhtar Donetsk",
+      "country": "Ukraine"
+    },
+    "away": {
+      "name": "Barcelona",
+      "country": "Spain"
+    }
+  },
+  {
+    "home": {
+      "name": "AC Milan",
+      "country": "Italy"
+    },
+    "away": {
+      "name": "Liverpool",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "AC Milan",
+      "country": "Italy"
+    },
+    "away": {
+      "name": "Barcelona",
+      "country": "Spain"
+    }
+  },
+  {
+    "home": {
+      "name": "Feyenoord",
+      "country": "Netherlands"
+    },
+    "away": {
+      "name": "Borussia Dortmund",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Feyenoord",
+      "country": "Netherlands"
+    },
+    "away": {
+      "name": "RB Leipzig",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Sporting CP",
+      "country": "Portugal"
+    },
+    "away": {
+      "name": "Manchester City",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "Sporting CP",
+      "country": "Portugal"
+    },
+    "away": {
+      "name": "Borussia Dortmund",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "PSV Eindhoven",
+      "country": "Netherlands"
+    },
+    "away": {
+      "name": "Internazionale",
+      "country": "Italy"
+    }
+  },
+  {
+    "home": {
+      "name": "PSV Eindhoven",
+      "country": "Netherlands"
+    },
+    "away": {
+      "name": "Bayern München",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "GNK Dinamo Zagreb",
+      "country": "Croatia"
+    },
+    "away": {
+      "name": "Liverpool",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "GNK Dinamo Zagreb",
+      "country": "Croatia"
+    },
+    "away": {
+      "name": "Manchester City",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "RB Salzburg",
+      "country": "Austria"
+    },
+    "away": {
+      "name": "Paris Saint-Germain",
+      "country": "France"
+    }
+  },
+  {
+    "home": {
+      "name": "RB Salzburg",
+      "country": "Austria"
+    },
+    "away": {
+      "name": "RB Leipzig",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Lille",
+      "country": "France"
+    },
+    "away": {
+      "name": "Real Madrid",
+      "country": "Spain"
+    }
+  },
+  {
+    "home": {
+      "name": "Lille",
+      "country": "France"
+    },
+    "away": {
+      "name": "Liverpool",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "Crvena Zvezda",
+      "country": "Serbia"
+    },
+    "away": {
+      "name": "Real Madrid",
+      "country": "Spain"
+    }
+  },
+  {
+    "home": {
+      "name": "Crvena Zvezda",
+      "country": "Serbia"
+    },
+    "away": {
+      "name": "Barcelona",
+      "country": "Spain"
+    }
+  },
+  {
+    "home": {
+      "name": "Young Boys",
+      "country": "Switzerland"
+    },
+    "away": {
+      "name": "Paris Saint-Germain",
+      "country": "France"
+    }
+  },
+  {
+    "home": {
+      "name": "Young Boys",
+      "country": "Switzerland"
+    },
+    "away": {
+      "name": "Internazionale",
+      "country": "Italy"
+    }
+  },
+  {
+    "home": {
+      "name": "Celtic",
+      "country": "Scotland"
+    },
+    "away": {
+      "name": "Barcelona",
+      "country": "Spain"
+    }
+  },
+  {
+    "home": {
+      "name": "Celtic",
+      "country": "Scotland"
+    },
+    "away": {
+      "name": "Bayern München",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Slovan Bratislava",
+      "country": "Slovakia"
+    },
+    "away": {
+      "name": "Barcelona",
+      "country": "Spain"
+    }
+  },
+  {
+    "home": {
+      "name": "Slovan Bratislava",
+      "country": "Slovakia"
+    },
+    "away": {
+      "name": "Paris Saint-Germain",
+      "country": "France"
+    }
+  },
+  {
+    "home": {
+      "name": "AS Monaco",
+      "country": "France"
+    },
+    "away": {
+      "name": "Real Madrid",
+      "country": "Spain"
+    }
+  },
+  {
+    "home": {
+      "name": "AS Monaco",
+      "country": "France"
+    },
+    "away": {
+      "name": "Manchester City",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "Sparta Praha",
+      "country": "Czech Republic"
+    },
+    "away": {
+      "name": "Barcelona",
+      "country": "Spain"
+    }
+  },
+  {
+    "home": {
+      "name": "Sparta Praha",
+      "country": "Czech Republic"
+    },
+    "away": {
+      "name": "Paris Saint-Germain",
+      "country": "France"
+    }
+  },
+  {
+    "home": {
+      "name": "Aston Villa",
+      "country": "England"
+    },
+    "away": {
+      "name": "Internazionale",
+      "country": "Italy"
+    }
+  },
+  {
+    "home": {
+      "name": "Aston Villa",
+      "country": "England"
+    },
+    "away": {
+      "name": "RB Leipzig",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Bologna",
+      "country": "Italy"
+    },
+    "away": {
+      "name": "Liverpool",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "Bologna",
+      "country": "Italy"
+    },
+    "away": {
+      "name": "Bayern München",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Girona",
+      "country": "Spain"
+    },
+    "away": {
+      "name": "Liverpool",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "Girona",
+      "country": "Spain"
+    },
+    "away": {
+      "name": "Bayern München",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Stuttgart",
+      "country": "Germany"
+    },
+    "away": {
+      "name": "Internazionale",
+      "country": "Italy"
+    }
+  },
+  {
+    "home": {
+      "name": "Stuttgart",
+      "country": "Germany"
+    },
+    "away": {
+      "name": "Real Madrid",
+      "country": "Spain"
+    }
+  },
+  {
+    "home": {
+      "name": "Sturm Graz",
+      "country": "Austria"
+    },
+    "away": {
+      "name": "RB Leipzig",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Sturm Graz",
+      "country": "Austria"
+    },
+    "away": {
+      "name": "Borussia Dortmund",
+      "country": "Germany"
+    }
+  },
+  {
+    "home": {
+      "name": "Brest",
+      "country": "France"
+    },
+    "away": {
+      "name": "Manchester City",
+      "country": "England"
+    }
+  },
+  {
+    "home": {
+      "name": "Brest",
+      "country": "France"
+    },
+    "away": {
+      "name": "Borussia Dortmund",
+      "country": "Germany"
+    }
+  }
+]
